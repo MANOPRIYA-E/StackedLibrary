@@ -1,2 +1,0 @@
-# StackedLibrary
-StackedLibrary DESCRIPTION
